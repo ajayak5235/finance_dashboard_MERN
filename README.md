@@ -22,7 +22,7 @@ To get started with the Finance Dashboard Using MERN project, follow these steps
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/vishnuthumpudi/Finance-DashBoard-Using-MERN.git
+git clone https://github.com/ajayak5235/finance_dashboard_MERN.git
 ```
 
 ### Installation and Configuration
@@ -30,7 +30,7 @@ git clone https://github.com/vishnuthumpudi/Finance-DashBoard-Using-MERN.git
 1. **Install Dependencies**: Navigate to the project directory and install the required dependencies using npm:
 
 ```bash
-cd finance-dashboard-mern
+cd finance_dashboard_MERN
 npm install
 ```
 
@@ -77,3 +77,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Special thanks to the MERN stack community and contributors for their efforts in developing and maintaining a powerful platform for building modern web applications.
 
 Thank you for exploring the Finance Dashboard Using MERN project! We hope you find it valuable for managing and analyzing your financial data.
+
